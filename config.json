@@ -1,0 +1,4 @@
+{
+    "NEXT_PUBLIC_API": "http://10.1.45.59:8085",
+    "NEXT_PUBLIC_API_VOICE": "http://10.1.45.54:8089"
+}
